@@ -1,2 +1,2 @@
 # Neuro-Fuzzy Credit Risk Forecasting
-This project deals with creating a credit risk forecasting system with fuzzy clustering and adaptive neuro-fuzzy inference systems. 
+A credit risk forecasting system using a combination of fuzzy clustering and adaptive neuro-fuzzy inference systems. 
